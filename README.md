@@ -183,7 +183,7 @@ Contact & Attribution
  Researcher: Monica Brown
  Status: Independent, #OPEN_TO_WORK
  Focus: AI Strategy, Cognitive Protocol Design, Emergent Intelligence Research
- Portfolio: github.com/[yourusername]/emergent-intelligence-framework
+ Portfolio: [ https://github.com/mwimbley1-cloud/emergent-intelligence-framework ]
  LinkedIn: [ https://www.linkedin.com/in/monicabrown2019/ ]
  Email: [ MWimbley1@gmail.com ]
 
